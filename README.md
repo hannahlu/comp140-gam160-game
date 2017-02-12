@@ -18,6 +18,3 @@ is designed for children undergoing hand therapy to improve mobility. To play, c
 - Sphere shaped controller with attachable Velcro digit holder, allowing customisation to size of user's hands. 
 - Controller includes three large buttons for use in setting up the game. 
 - A detachable stand ensures sphere can be tidied away after use. 
-
-
-![alt text](https://github.com/hannahlu/comp140-gam160-game/blob/master/GameControllerIdeas.png"Game Controller Ideas")
