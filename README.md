@@ -5,7 +5,7 @@ is designed for children undergoing hand therapy to improve mobility. To play, c
 
 ##Core Game Mechanics
 - Flying: navigate spaceship around planets, asteroids and more!
-- Uses motion sensors in controllers to control spaceship.
+- Uses motion sensors to control spaceship.
 
 ##Unique Selling Points
 - Adaptable to individual needs and abilities: with different difficult levels and an adjustable controller.
