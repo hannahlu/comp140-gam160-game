@@ -7,16 +7,14 @@ is designed for children undergoing hand therapy to improve mobility. To play, c
 - Flying: navigate spaceship around planets, asteroids and more!
 - Uses motion sensors in controllers to control spaceship.
 
-##Controller 
-
-Sphere shaped controller with attachable Velcro digit holder, allowing customisation to size of user's hands. 
-Controller includes three large buttons for use in setting up the game. 
-A detachable stand ensures sphere can be tidied away after use. 
-
 ##Unique Selling Points
 - Adaptable to individual needs and abilities: with different difficult levels and an adjustable controller.
 - Enter child's name and get regular personalised encouragement during game.
 - Helps to make physiotherapy less of a chore!
 - Control your very own spaceship!
 
+##Controller 
 
+Sphere shaped controller with attachable Velcro digit holder, allowing customisation to size of user's hands. 
+Controller includes three large buttons for use in setting up the game. 
+A detachable stand ensures sphere can be tidied away after use. 
