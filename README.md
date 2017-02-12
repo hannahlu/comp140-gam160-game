@@ -20,4 +20,4 @@ is designed for children undergoing hand therapy to improve mobility. To play, c
 - A detachable stand ensures sphere can be tidied away after use. 
 
 
-![alt text](https://github.com/hannahlu/comp140-gam160-game/GameControllerIdeas.png"Game Controller Ideas")
+![alt text](https://github.com/hannahlu/comp140-gam160-game/blob/master/GameControllerIdeas.png"Game Controller Ideas")
