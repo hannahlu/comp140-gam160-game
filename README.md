@@ -8,7 +8,7 @@ OrbZorb is designed for children undergoing hand therapy to improve mobility. To
 - Uses motion sensors to control spaceship.
 
 ##Unique Selling Points
-- Adaptable to individual needs and abilities: with different difficult levels and an adjustable controller.
+- Adaptable to individual needs and abilities: with different difficulty levels and an adjustable controller.
 - Enter child's name and get regular personalised encouragement during game.
 - Helps to make physiotherapy less of a chore!
 - Control your very own spaceship!
