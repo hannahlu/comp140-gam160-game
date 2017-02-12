@@ -1,7 +1,7 @@
 #OrbZorb
 
 ##Description 
-OrbZorb is designed for children undergoing hand therapy to improve mobility. To play, children navigate a spaceship through an assault course of planets, asteroids, and aliens, in a race to get home. Difficulty levels can be adjusted to suit individual needs and abilities, the aim, a creative and fun way for children to perform hand exercises, whilst reducing frustration. 
+OrbZorb is designed for children undergoing hand therapy to improve mobility. To play, children navigate a spaceship through an assault course of planets, asteroids, and aliens, in a race to get home. Difficulty levels can be adjusted to suit individual needs and abilities, a creative and fun way for children to perform hand exercises, whilst reducing frustration. 
 
 ##Core Game Mechanics
 - Flying: navigate spaceship around planets, asteroids and more!
